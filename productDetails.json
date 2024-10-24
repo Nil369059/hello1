@@ -1,0 +1,172 @@
+{
+    "product": [
+        {
+            "Title": "Up to 75% off | Never before offers on appliances",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Jupiter24/PC_QC_1_1x._SY116_CB562149152_.jpg",
+                    "Name": "Front loads | Up to 60% off"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Jupiter24/PC_QC_2_1x._SY116_CB562149152_.jpg",
+                    "Name": "High capacity fridge | Up to 60% off"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Jupiter24/PC_QC_3_1x._SY116_CB562149152_.jpg",
+                    "Name": "Energy efficient Acs | Up to 60% off"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/Jupiter24/PC_QC_4_1x._SY116_CB562149152_.jpg",
+                    "Name": "Autoclean Chimeny | Up to 60% off"
+                }
+            ]
+        },
+        {
+            "Title": "Minimum 50% off | Home, kitchen & more",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_1_1x._SY116_CB562243010_.jpg",
+                    "Name": "Kitchen Appliance"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_2_1x._SY116_CB562243010_.jpg",
+                    "Name": "Home Docor"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_3_1x._SY116_CB562243010_.jpg",
+                    "Name": "Furniture"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_4_1x._SY116_CB562243010_.jpg",
+                    "Name": "Home Improvement"
+                }
+            ]
+        },
+        {
+            "Title": "Deals on smartphones that suits your budget",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/tsahtany/Jup24/MSO/Phase2/Desktop/01._SY116_CB544542891_.jpg",
+                    "Name": "Budget | Under $100"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/tsahtany/Jup24/MSO/Phase2/Desktop/03._SY116_CB544542891_.jpg",
+                    "Name": "Mid range | $100 t0 $250"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/tsahtany/Jup24/MSO/Phase2/Desktop/02._SY116_CB544542891_.jpg",
+                    "Name": "Premium | $250 to $400"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/tsahtany/Jup24/MSO/Phase2/Desktop/04._SY116_CB544542891_.jpg",
+                    "Name": "Ultra Premium | Above $400"
+                }
+            ]
+        },
+        {
+            "Title": "Minimum 50% off | Sports, outdoor & more",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_5_1x._SY116_CB562243010_.jpg",
+                    "Name": "Sports & fitness"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_6_1x._SY116_CB562243010_.jpg",
+                    "Name": "Automative"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_8_1x._SY116_CB562243010_.jpg",
+                    "Name": "Tools"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/OHL/Jup24/GW/PC_QC_7_1x._SY116_CB562243010_.jpg",
+                    "Name": "Garden & outdoor"
+                }
+            ]
+        },
+        {
+            "Title": "Collections from Emerging Businesses",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Lamps_1.1._SY116_CB562332080_.jpg",
+                    "Name": "Up to 55% off | Light & lamps"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Furniture_1.2._SY116_CB562332080_.jpg",
+                    "Name": "Up to 70% off | Furnishing"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Electronics_1.3._SY116_CB562332080_.jpg",
+                    "Name": "Up to 60% off | Electronic"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Home_1.4._SY116_CB562332080_.jpg",
+                    "Name": "Up to 65% off | Home Decor"
+                }
+            ]
+        },
+        {
+            "Title": "Style & innovation from Small Businesses",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Gateway/Desktop_QC_1_NAM_revised_1x_Decor._SY116_CB562451660_.jpg",
+                    "Name": "Up to 55% off | Home Decor"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Gateway/Desktop_QC_1_NAM_revised_1x_Fashion_Accessories._SY116_CB562451660_.jpg",
+                    "Name": "Up to 75% off | Fashion"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Gateway/Desktop_QC_1_NAM_revised_1x_Furniture._SY116_CB562451660_.jpg",
+                    "Name": "Up to 53% off | Furniture"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Img24/SMB/Jupiter/Gateway/Desktop_QC_1_NAM_revised_1x_Electronics._SY116_CB562451660_.jpg",
+                    "Name": "Up to 45% off | Electronic"
+                }
+            ]
+        },
+        {
+            "Title": "Up to 70% off | Appliances & more from stores near you",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Local/Jupiter24/Qc/XC/cloth-1x._SY116_CB545074177_.jpg",
+                    "Name": "Traditional Wears"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Local/Jupiter24/Qc/XC/furniture-1x._SY116_CB545074177_.jpg",
+                    "Name": "Furniture"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Local/Jupiter24/Qc/XC/storage-1x._SY116_CB545074177_.jpg",
+                    "Name": "Kitchen Storage"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/Local/Jupiter24/Qc/XC/washingmachine-1x._SY116_CB545074177_.jpg",
+                    "Name": "Large appliance"
+                }
+            ]
+        },
+        {
+            "Title": "Great Indian Festival | Brands in focus",
+            "Details": [
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/Wireless/Samsung/Jupiter_24/ASCENT/Phase2/D158985883_PC_QC_186x116_1._SY116_CB562935576_.jpg",
+                    "Name": "Up to 45% off | Samsung smartphone"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/Nayana/k/D163754444_PC_QC_1x._SY116_CB544486588_.jpg",
+                    "Name": "Up to 65% off | ps5"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/tsahtany/Jup24/ASCENT/D161471605_WLD_Jup24_OnePlus-Family_PC_QC186x116._SY116_CB562236856_.jpg",
+                    "Name": "Up to 40% off | onePlus"
+                },
+                {
+                    "Image": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/TVs/Abhilasha/coop_jupiter/Samsung_PC_QC_186x116_Orange._SY116_CB563669677_.jpg",
+                    "Name": "Up to 35% off | Samsung TVs"
+                }
+            ]
+        }
+    ]
+}

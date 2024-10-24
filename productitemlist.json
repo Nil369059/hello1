@@ -1,0 +1,70 @@
+{
+    "itemlist": [
+        {
+            "id": 1,
+            "img": "https://cdn.pixabay.com/photo/2017/08/03/11/22/laptop-2575689_640.jpg",
+            "description": "Excellent battery life for all-day productivity. Screen Size: 13 to 16, RAM: 8GB to 32GB, Processor: Apple M1/M2 chip",
+            "rating": 4,
+            "price": 250000,
+            "discount": "12%",
+            "mprice": "₹2,90,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        },
+        {
+            "id": 2,
+            "img": "https://www.shutterstock.com/image-photo/jakarta-indonesia-monday-may-11-600nw-1728120208.jpg",
+            "description": "Equipped with top-tier graphics for gaming and content creation. Screen Size: 14 to 17, RAM: 8GB to 32GB, Processor: Intel i5/i7/i9 or AMD Ryzen 5/7/9",
+            "rating": 4,
+            "price": 180000,
+            "discount": "29%",
+            "mprice": "₹2,20,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        },
+        {
+            "id": 3,
+            "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/category/laptop/xps/fy24-family-launch/prod-312204-apjc-laptop-xps-16-9640-14-9440-13-9340-800x620-pl-gr.png?fmt=png-alpha&wid=800&hei=620",
+            "description": "Known for robust customer support and extensive warranty options. Screen Size: 13 to 17, RAM: 8GB to 64GB, Processor: Intel i5/i7/i9 or AMD Ryzen 5/7.",
+            "rating": 3,
+            "price": 170000,
+            "discount": "30%",
+            "mprice": "₹2,40,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        },
+        {
+            "id": 4,
+            "img": "https://helios-i.mashable.com/imagery/reviews/05b68fuxakHZTuCxVIQVNlO/hero-image.fill.size_1248x702.v1623373616.jpg",
+            "description": "Optimized for pen input and creative tasks. Screen Size: 10.5 to 15, RAM: 8GB to 32GB, Processor: Intel i5/i7 or Microsoft SQ series.",
+            "rating": 2,
+            "price": 200000,
+            "discount": "15%",
+            "mprice": "₹2,24,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        },
+        {
+            "id": 5,
+            "img": "https://media.istockphoto.com/id/2152881346/photo/laptop-hp-15-bs157ur-3xy58ea-on-white-background.jpg?s=612x612&w=0&k=20&c=km0VP7D0-TjV2ZFvZb4mn3Nloaz3KVSYYM4hN_QoJHs=",
+            "description": "Offers a wide range of models with the latest processors. Screen Size: 13 to 17, RAM: 8GB to 32GB, Processor: Intel i5/i7 or AMD Ryzen 5/7",
+            "rating": 4,
+            "price": 160000,
+            "discount": "18%",
+            "mprice": "₹2,00,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        },
+        {
+            "id": 6,
+            "img": "https://images.samsung.com/is/image/samsung/assets/uk/laptop-buying-guide/galaxy-book-3-range-explained/Book3Pro-series-M.png?$720_N_PNG$",
+            "description": "Features fast-charging and ultra-slim designs. Screen Size: 13.3 to 15.6, RAM: 8GB to 16GB, Processor: Intel i5/i7",
+            "rating": 3,
+            "price": 140000,
+            "discount": "23%",
+            "mprice": "₹1,80,000",
+            "button": "Add to cart",
+            "delivery": "Free delivery by Amazon"
+        }
+    ]
+}
